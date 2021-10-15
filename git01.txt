@@ -1,4 +1,6 @@
 gittest
 x
 sosaila
-a
+kas
+d
+ok
